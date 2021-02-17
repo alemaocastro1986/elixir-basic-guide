@@ -1,21 +1,15 @@
 # BasicGuide
 
-**TODO: Add description**
+Intro
 
-## Installation
+**Description**
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `basic_guide` to your list of dependencies in `mix.exs`:
+Introduction to Elixir using basic language concepts as well as aspects of the functional paradigm, such as immutability and recursion.
 
 ```elixir
-def deps do
-  [
-    {:basic_guide, "~> 0.1.0"}
-  ]
+def elixir do
+  "Is great"
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/basic_guide](https://hexdocs.pm/basic_guide).
 
